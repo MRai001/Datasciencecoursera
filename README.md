@@ -1,2 +1,2 @@
 # Datasciencecoursera
-My first assignment repository
+My first assignment - test repository
